@@ -6,7 +6,7 @@ This project creates an interactive sales dashboard using Tableau to visualize S
 Files Included:
 project-folder/
 ├── Superstore_Sales.csv                
-├── dashboard_screenshot.png                     
+├── dashboard_screenshot.pdf                    
 └── README.md                    
 
 
